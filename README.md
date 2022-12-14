@@ -1,4 +1,3 @@
-/* Add Author and Project Details here */
 # stats assignment
 
 - brief stats implmentation performing various statiscal functions and first week introduction-embedded-systems course assignment
